@@ -10,7 +10,7 @@ la taxonomía de Bloom, mostrando un resumen al finalizar.
 
 Repositorio:
 ------------
-https://github.com/usuario/sistema-pruebas-educativas
+https://github.com/MISMorice/Tarea.git
 
 Requisitos:
 -----------
