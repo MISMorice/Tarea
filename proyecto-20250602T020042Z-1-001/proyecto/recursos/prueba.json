@@ -1,0 +1,122 @@
+{
+  "nombre_prueba": "Tarea Paradigmas II",
+  "tiempo_total": 380,
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "La capital de Francia es París.",
+      "nivel_bloom": "Recordar",
+      "tipo": "Verdadero/Falso",
+      "respuesta_correcta": "Verdadero",
+      "tiempo_estimado": 10
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuál es el símbolo químico del oxígeno?",
+      "nivel_bloom": "Recordar",
+      "tipo": "Alternativas",
+      "respuesta_correcta": "c",
+      "tiempo_estimado": 15,
+      "alternativas": [
+        "Ox",
+        "Oz",
+        "O",
+        "Oy"
+      ]
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Qué número representa el valor de pi (π) más cercano?",
+      "nivel_bloom": "Recordar",
+      "tipo": "Alternativas",
+      "respuesta_correcta": "c",
+      "tiempo_estimado": 15,
+      "alternativas": [
+        "2.71",
+        "1.61",
+        "3.14",
+        "4.13"
+      ]
+    },
+    {
+      "id": 4,
+      "pregunta": "Comprender un texto es lo mismo que memorizarlo.",
+      "nivel_bloom": "Comprender",
+      "tipo": "Verdadero/Falso",
+      "respuesta_correcta": "Falso",
+      "tiempo_estimado": 10
+    },
+    {
+      "id": 5,
+      "pregunta": "Si el Sol está en el centro del sistema solar, entonces:",
+      "nivel_bloom": "Comprender",
+      "tipo": "Alternativas",
+      "respuesta_correcta": "a",
+      "tiempo_estimado": 20,
+      "alternativas": [
+        "Los planetas giran a su alrededor",
+        "El Sol gira alrededor de la Tierra",
+        "La Luna se aleja del Sol",
+        "Todos los cuerpos celestes son estáticos"
+      ]
+    },
+    {
+      "id": 6,
+      "pregunta": "Una tendencia ascendente en un gráfico generalmente indica:",
+      "nivel_bloom": "Comprender",
+      "tipo": "Alternativas",
+      "respuesta_correcta": "d",
+      "tiempo_estimado": 20,
+      "alternativas": [
+        "Un error de lectura",
+        "Una disminución de valores",
+        "Estabilidad",
+        "Un aumento de valor"
+      ]
+    },
+    {
+      "id": 7,
+      "pregunta": "Resolver una ecuación es un ejemplo de aplicar el conocimiento matemático.",
+      "nivel_bloom": "Aplicar",
+      "tipo": "Verdadero/Falso",
+      "respuesta_correcta": "Verdadero",
+      "tiempo_estimado": 15
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Qué harías si debes calcular el área de un círculo?",
+      "nivel_bloom": "Aplicar",
+      "tipo": "Alternativas",
+      "respuesta_correcta": "b",
+      "tiempo_estimado": 25,
+      "alternativas": [
+        "Multiplicar diámetro por radio",
+        "Usar la fórmula π × radio²",
+        "Medir los lados",
+        "Dividir el perímetro"
+      ]
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Qué acción corresponde a aplicar una ley física?",
+      "nivel_bloom": "Aplicar",
+      "tipo": "Alternativas",
+      "respuesta_correcta": "c",
+      "tiempo_estimado": 25,
+      "alternativas": [
+        "Aprender la fórmula",
+        "Recitar una definición",
+        "Usar la segunda ley de Newton en un experimento",
+        "Dibujar un objeto"
+      ]
+    },
+    {
+      "id": 10,
+      "pregunta": "Analizar es identificar las partes y cómo se relacionan entre sí.",
+      "nivel_bloom": "Analizar",
+      "tipo": "Verdadero/Falso",
+      "respuesta_correcta": "Verdadero",
+      "tiempo_estimado": 15
+    }
+  ]
+}
