@@ -33,7 +33,7 @@ Instrucciones para compilar y ejecutar:
 ---------------------------------------
 
 1. Clonar el repositorio (opcional):
-   git clone https://github.com/usuario/sistema-pruebas-educativas.git
+   git clone https://github.com/MISMorice/Tarea.git
 
 2. Entrar a la carpeta del proyecto descargado.
 
